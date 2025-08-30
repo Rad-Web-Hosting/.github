@@ -61,7 +61,7 @@ We ❤️ open source! Contributions are welcome:
 2. Create a feature branch  
 3. Submit a PR with a clear description  
 
-Please check our **[Contributing Guidelines](CONTRIBUTING.md)** and **[Code of Conduct](CODE_OF_CONDUCT.md)**.
+Please check our **[Contributing Guidelines](CONTRIBUTING.md)** and **[Code of Conduct](CONDUCT.md)**.
 
 ---
 
