@@ -47,7 +47,7 @@
 ## 🔦 Featured Projects
 
 - 🚀 [whmcs-vps-reseller](https://github.com/Rad-Web-Hosting/whmcs-vps-reseller) – Auto-provision VPS Servers with WHMCS  
-- 📡 [RadWebHosting-whmcs](https://github.com/Rad-Web-Hosting/RadWebHosting-whmcs) – Bash scripts for VPS & dedicated servers  
+- 📡 [RadWebHosting-whmcs](https://github.com/Rad-Web-Hosting/RadWebHosting-whmcs) – WHMCS Domain Registrar Module  
 - 📦 [whois.json](https://github.com/Rad-Web-Hosting/whois.json) – Updated Whois.json with RDAP interfaces 
 - 📝 [banned-subdomain-prefixes](https://github.com/Rad-Web-Hosting/banned-subdomain-prefixes) – An updated list of subdomain prefixes to ban in WHMCS 
 
