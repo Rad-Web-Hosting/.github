@@ -24,7 +24,7 @@
 
 **Rad Web Hosting** is a trusted provider of **web hosting, cloud servers, and managed infrastructure solutions** for developers, startups, agencies, and enterprises worldwide.
 
-- 🌎 Data centers in **Dallas, Texas (USA)** and **Paris, France (EU)**  
+- 🌎 Data centers in **Dallas, Texas (USA)**, **New York, New York (USA)**, **Paris, France (EU)**, and **Tokyo, JP (APAC)** 
 - ⚡ **25× Faster SSD Hosting** for performance-critical apps  
 - 🔒 Enterprise security: **DDoS protection, SSL, proactive monitoring**  
 - 🌱 Sustainability commitment: **1% of revenue to carbon removal** (via Stripe Climate)  
